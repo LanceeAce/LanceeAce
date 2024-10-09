@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Lance Buan</h1>
 <h3 align="center">A passionate Full-stack developer from Philippines</h3>
-<img align="right" alt="coding" width="400"  src="https://i.imgur.com/OTKgDSt.gif">
+<img align="right" alt="coding" width="900" src="https://i.imgur.com/OTKgDSt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanceeace&label=Profile%20views&color=0e75b6&style=flat" alt="lanceeace" /> </p>
 
