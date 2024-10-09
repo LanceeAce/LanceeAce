@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Lance Buan</h1>
+<h1 align="center">Hi , I'm <img align="center"  width="200" src="https://see.fontimg.com/api/rf5/WyjdE/ZjM4NWM1MjVjZmQ1NDMwZGI0NzNhY2FjZmM0YmRhNjMub3Rm/bGFuY2UgYnVhbg/quartzofontpersonaluse-bold.png?r=dw&h=81&w=1250&fg=000000&bg=FFFFFF&s=65"> </h1>
 <h3 align="center">A passionate Full-stack developer from Philippines</h3>
 <img align="right" alt="coding" width="900" src="https://i.imgur.com/OTKgDSt.gif">
 
