@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm <img align="center"  width="200" src="https://see.fontimg.com/api/rf5/WyjdE/ZjM4NWM1MjVjZmQ1NDMwZGI0NzNhY2FjZmM0YmRhNjMub3Rm/bGFuY2UgYnVhbg/quartzofontpersonaluse-bold.png?r=dw&h=81&w=1250&fg=000000&bg=FFFFFF&s=65"> </h1>
-<h3 align="center"><img align="center" width="900" src="https://see.fontimg.com/api/rf5/w14n6/NmY0MDFkZTc5ZGYzNDg1YjlmZDQzZWZhYWM5ZjdjYjcub3Rm/QSBwYXNzaW9uYXRlIEZ1bGwtc3RhY2sgZGV2ZWxvcGVyIGZyb20gUGhpbGlwcGluZXM/jellypiepersonaluse-bold.png?r=dw&h=24&w=1250&fg=000000&bg=FFFFFF&s=19"> </h3>
+<h1 align="center"> <img align="center"  width="200" src="https://see.fontimg.com/api/rf5/WyjdE/ZjM4NWM1MjVjZmQ1NDMwZGI0NzNhY2FjZmM0YmRhNjMub3Rm/bGFuY2UgYnVhbg/quartzofontpersonaluse-bold.png?r=dw&h=81&w=1250&fg=000000&bg=FFFFFF&s=65"> </h1>
+
 <img align="right" alt="coding" width="900" src="https://i.imgur.com/OTKgDSt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lanceeace&label=Profile%20views&color=0e75b6&style=flat" alt="lanceeace" /> </p>
